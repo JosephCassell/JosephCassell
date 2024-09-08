@@ -41,7 +41,7 @@ Now, I'm excited to bring my skills, creativity, and dedication to new challenge
 
 ### 📊 GitHub Stats
 
-![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosephCassell&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
