@@ -39,6 +39,14 @@ Now, I'm excited to bring my skills, creativity, and dedication to new challenge
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
+### 📊 GitHub Stats
+
+![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+![Joseph's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=dracula)
+
 ### 📫 Contact Me
 
 - **Portfolio**: [joseph-cassell.com](https://joseph-cassell.com)
