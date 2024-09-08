@@ -43,7 +43,6 @@ Now, I'm excited to bring my skills, creativity, and dedication to new challenge
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephCassell&layout=compact&theme=radical&cache_seconds=1800)
 
-![Joseph's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=dracula)
 
 ### 📫 Contact Me
 
