@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi I'm Joseph!
+
+I’m a full-stack software engineer based in Los Angeles. My passion for technology started at a young age, fueled by countless hours of gaming on my computer and a deep curiosity about how things work behind the scenes. This curiosity eventually led me to explore coding, with Codecademy as my gateway into the world of web development.
+
+As I worked through Codecademy’s HTML and CSS courses, I discovered just how much I loved the building aspect of coding. It reminded me of the joy I experienced as a kid playing with Legos—creating something from scratch, piece by piece. Coding quickly became more than just a technical skill; it was a form of creative expression where I could build unique, functional websites with all kinds of quirky features that brought my ideas to life. This hands-on experience reshaped my view of coding, transforming it into a passion for both the technical challenges and the artistic potential it offers.
+
+Before I fully immersed myself in the world of software development, I worked as a full-time in-home support provider for a man with cerebral palsy. This experience taught me patience, empathy, and the importance of perseverance—qualities that have greatly influenced my approach to problem-solving in coding.
+
+Driven by my dream to become a full-time software engineer, I joined App Academy, where I gained my skills and became proficient in both frontend and backend technologies. Through this intensive program, I completed three projects that demonstrate my ability to create functional, user-friendly applications.
+
+Now, I'm excited to bring my skills, creativity, and dedication to new challenges as I continue my journey in the tech industry. I’m eager to collaborate with innovative teams and contribute to meaningful projects that make a difference.
+
 ### 🛠️ Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
