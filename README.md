@@ -44,4 +44,4 @@ Now, I'm excited to bring my skills, creativity, and dedication to new challenge
 - **Portfolio**: [joseph-cassell.com](https://joseph-cassell.com)
 - **Resume**: [View My Resume](https://docs.google.com/document/d/1Rdxjc-iHdClchv5Z0gbm06xKCYdRmie4ThfjszdHLfM/edit?usp=sharing)
 - **Email**: [josefcassell@gmail.com](josefcassell@gmail.com)
-- **LinkedIn**: [www.linkedin.com/in/joseph-cassell](www.linkedin.com/in/joseph-cassell)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/joseph-cassell/)
