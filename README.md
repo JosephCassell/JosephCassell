@@ -38,3 +38,10 @@ Now, I'm excited to bring my skills, creativity, and dedication to new challenge
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+
+### 📫 Contact Me
+
+- **Portfolio**: [joseph-cassell.com](https://joseph-cassell.com)
+- **Resume**: [View My Resume](https://docs.google.com/document/d/1Rdxjc-iHdClchv5Z0gbm06xKCYdRmie4ThfjszdHLfM/edit?usp=sharing)
+- **Email**: [youremail@example.com](josefcassell@gmail.com)
+- **LinkedIn**: [linkedin.com/in/josephcassell](www.linkedin.com/in/joseph-cassell)
